@@ -1,5 +1,2 @@
-*.class
-*.a
-*.exe
 bin/
 pkg/
